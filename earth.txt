@@ -1,5 +1,9 @@
-#EARTH
-> It's green
-> It's blue
-
-Blah Blah Blah!
+#Earth
+Planet
+Earth, also called the world and, less frequently, Gaia is the third planet from the Sun, the densest planet in the Solar System, the largest of the Solar System's four terrestrial planets, and the only astronomical object known to accommodate life. Wikipedia
+Radius: 6,371 km
+Age: 4.54 billion years
+Distance from Sun: 149,500,000 km
+Mass: 5.972E24 kg
+Population: 7.125 billion (2013) World Bank
+Moon: Moon
