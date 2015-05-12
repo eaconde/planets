@@ -1,0 +1,9 @@
+#Sun
+Star
+The Sun is the star at the center of the Solar System and is by far the most important source of energy for life on Earth. Wikipedia
+Distance to Earth: 149,600,000 km
+Surface temperature: 5,778 K
+Mass: 1.989E30 kg
+Radius: 695,800 km (1 R☉)
+Magnitude: -26.74
+Orbits: Galactic Center
